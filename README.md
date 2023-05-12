@@ -1,6 +1,6 @@
 # Scene_Classification
 
-### Link to dataset:
+### Link for dataset:
 - https://drive.google.com/drive/folders/1Jff904-zKuWeL45jbtb6Jsxg7-_ePkzk?usp=sharing
 
 ### Link for competition:
